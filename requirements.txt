@@ -1,0 +1,12 @@
+
+Django
+djangorestframework
+djangorestframework-simplejwt
+drf-spectacular
+celery
+redis
+python-dotenv
+stripe
+requests
+pytest
+pytest-django
